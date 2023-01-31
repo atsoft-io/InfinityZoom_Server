@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 310206915
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: level13.13
+      Dependencies: {}
+    Info_1:
+      Name: level23.23
+      Dependencies: {}
+    Info_2:
+      Name: level33.33
+      Dependencies: {}
+    Info_3:
+      Name: level10.10
+      Dependencies: {}
+    Info_4:
+      Name: level24.24
+      Dependencies: {}
+    Info_5:
+      Name: level36.36
+      Dependencies: {}
+    Info_6:
+      Name: level37.37
+      Dependencies: {}
+    Info_7:
+      Name: level25.25
+      Dependencies: {}
+    Info_8:
+      Name: level21.21
+      Dependencies: {}
+    Info_9:
+      Name: level8.8
+      Dependencies: {}
+    Info_10:
+      Name: level14.14
+      Dependencies: {}
+    Info_11:
+      Name: level39.39
+      Dependencies: {}
+    Info_12:
+      Name: level32.32
+      Dependencies: {}
+    Info_13:
+      Name: level16.16
+      Dependencies: {}
+    Info_14:
+      Name: level27.27
+      Dependencies: {}
+    Info_15:
+      Name: level12.12
+      Dependencies: {}
+    Info_16:
+      Name: level5.5
+      Dependencies: {}
+    Info_17:
+      Name: level15.15
+      Dependencies: {}
+    Info_18:
+      Name: level22.22
+      Dependencies: {}
+    Info_19:
+      Name: level30.30
+      Dependencies: {}
+    Info_20:
+      Name: level7.7
+      Dependencies: {}
+    Info_21:
+      Name: level19.19
+      Dependencies: {}
+    Info_22:
+      Name: level11.11
+      Dependencies: {}
+    Info_23:
+      Name: level20.20
+      Dependencies: {}
+    Info_24:
+      Name: level34.34
+      Dependencies: {}
+    Info_25:
+      Name: level40.40
+      Dependencies: {}
+    Info_26:
+      Name: level17.17
+      Dependencies: {}
+    Info_27:
+      Name: level6.6
+      Dependencies: {}
+    Info_28:
+      Name: level9.9
+      Dependencies: {}
+    Info_29:
+      Name: level26.26
+      Dependencies: {}
