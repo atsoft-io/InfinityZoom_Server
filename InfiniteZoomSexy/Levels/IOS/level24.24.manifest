@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1141728289
+CRC: 587242544
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 961b41dc4715ba16b908f861c01d7882
+    Hash: 615109df03ac98082e7c352b0c8217b3
   TypeTreeHash:
     serializedVersion: 2
     Hash: e08fb4a18e99256c150e103779f11bff
@@ -117,5 +117,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: spine-unity
   ClassName: Spine.Unity.MeshGenerator/Settings
 Assets:
-- Assets/_Game/_Levels/Level24/Level 24.prefab
+- Assets/_Game/Prefabs/Level24/Level 24.prefab
 Dependencies: []
