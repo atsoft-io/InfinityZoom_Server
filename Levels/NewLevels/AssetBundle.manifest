@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2704724239
+CRC: 3571373795
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -91,4 +91,28 @@ AssetBundleManifest:
       Dependencies: {}
     Info_29:
       Name: level15.15
+      Dependencies: {}
+    Info_30:
+      Name: level2.2
+      Dependencies: {}
+    Info_31:
+      Name: level4.4
+      Dependencies: {}
+    Info_32:
+      Name: level41.41
+      Dependencies: {}
+    Info_33:
+      Name: level42.42
+      Dependencies: {}
+    Info_34:
+      Name: level43.43
+      Dependencies: {}
+    Info_35:
+      Name: level1.1
+      Dependencies: {}
+    Info_36:
+      Name: level3.3
+      Dependencies: {}
+    Info_37:
+      Name: level18.8
       Dependencies: {}
