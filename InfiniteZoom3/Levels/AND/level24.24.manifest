@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 794580310
+CRC: 2236850506
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 43dd1d4f179ffa15262eac43acc71c22
+    Hash: 4e29d72b6f0b77d6d354fcd1f8afdf2b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3e454154f67c7a5587492030d5788202
+    Hash: d3d72b8eb3bbdd0e9ba21022cd7ce9fc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,12 +17,16 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
@@ -36,6 +40,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: ef8b96895a0ec4ba685178a052544251, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1636dd0d6e5d11b449d15a1816fcf63a, type: 3}
@@ -43,6 +49,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6622c7a64ebb81143ace81313f4f081b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: aa45eb9c418828c4587e26fe2ffd456e, type: 3}
 - Class: 115
@@ -104,6 +112,12 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.MeshGenerator
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.MeshGenerator/Settings
 Assets:
 - Assets/_Game/_Levels/Level24/Level 24.prefab
 Dependencies: []

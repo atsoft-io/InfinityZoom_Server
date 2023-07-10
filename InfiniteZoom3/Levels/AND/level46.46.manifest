@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4139055559
+CRC: 2990579933
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9a0481cceb1a814c7fdbdffecf183c80
+    Hash: 0c1ec4a6e67f06bd6d47346a5d6fc798
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 94c715b5d33356b1c36db19283474b9a
+    Hash: 50bce092ad082e083ee65835adfe660c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,6 +25,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
 - Class: 114
@@ -115,9 +117,12 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: spine-unity
   ClassName: Spine.Unity.BlendModeMaterials
 - AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials/ReplacementMaterial
+- AssemblyName: spine-unity
   ClassName: Spine.Unity.MeshGenerator
 - AssemblyName: spine-unity
   ClassName: Spine.Unity.MeshGenerator/Settings
 Assets:
 - Assets/_Game/_Levels/Level46/Level 46.prefab
+- Assets/_Game/_Levels/Level47/Level 47.prefab
 Dependencies: []
