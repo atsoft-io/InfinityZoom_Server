@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3452059631
+CRC: 3452821467
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1a82776eb05190cff46d5f5b245d9406
+    Hash: 7054eac7b0569903af1fba280872954f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 62b17c86d4c4eee1ab43d5d7c511297c
+    Hash: ec852e5da363b7d78a566d0b8c33d00a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -103,5 +103,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/_Game/Prefabs/Levels/Level23/Level 23.prefab
+- Assets/_Game/_Levels/Level23/Level 23.prefab
 Dependencies: []
