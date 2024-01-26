@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 229508535
+CRC: 309414147
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6410e172de9b658fd462c66d08ebc6a5
+    Hash: ca5c72c812b06089a36810e2be783525
   TypeTreeHash:
     serializedVersion: 2
     Hash: b1e8d3b4dcaba19901a95aa8947764d1
@@ -115,5 +115,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/_Game/_Levels (New)/Find Objects/lv_songoku/Level 0008.prefab
+- Assets/_Game/_Levels (New)/Find Objects/lv_songoku/Level 54.prefab
 Dependencies: []

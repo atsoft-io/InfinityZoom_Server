@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2962489342
+CRC: 3782826924
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48e313bbf4e9bc397beca6c6a71cf5ff
+    Hash: 2659053805f05d3f668a58e086234d5b
   TypeTreeHash:
     serializedVersion: 2
     Hash: b1e8d3b4dcaba19901a95aa8947764d1
@@ -115,5 +115,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/_Game/_Levels (New)/Find Objects/lv_phuthuy/Level 0007.prefab
+- Assets/_Game/_Levels (New)/Find Objects/lv_phuthuy/Level 53.prefab
 Dependencies: []

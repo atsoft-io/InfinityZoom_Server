@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3060999222
+CRC: 589471118
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 150d13b3054c699699a9c6d6a0a804d7
+    Hash: e03df9c764a004fb74dcb33dac1a2d5b
   TypeTreeHash:
     serializedVersion: 2
     Hash: b1e8d3b4dcaba19901a95aa8947764d1
@@ -115,5 +115,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/_Game/_Levels (New)/Find Objects/lv_haloween/Level 0002.prefab
+- Assets/_Game/_Levels (New)/Find Objects/lv_haloween/Level 49.prefab
 Dependencies: []
