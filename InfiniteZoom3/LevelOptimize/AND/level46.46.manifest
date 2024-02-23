@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3800669814
+CRC: 1535067514
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 40a30992deefceef0521b1d98bc48296
+    Hash: f15127f15b0d0cf6660da45c6347fcb5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 12e0e965436c5b9d7e2185ba5d8452e4
+    Hash: e1c893a61907024f2a9ee9fe47175e4d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,19 +24,25 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd65ce587bb10ee488dbbbc15fa51320, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afe30c97810141f4a94d475c4777a804, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 9e5aff8c02dc07544a98ecd83c0efce2, type: 3}
+  Script: {fileID: 11500000, guid: 7f0774dc4448a8d4190af3cb8dd5be59, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+  Script: {fileID: 11500000, guid: 9e5aff8c02dc07544a98ecd83c0efce2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
@@ -55,12 +61,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: aa45eb9c418828c4587e26fe2ffd456e, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: afe30c97810141f4a94d475c4777a804, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: dd65ce587bb10ee488dbbbc15fa51320, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 7f0774dc4448a8d4190af3cb8dd5be59, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -100,13 +100,13 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.Events.UnityEvent
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.RectOffset
-- AssemblyName: UnityEngine.TextCoreModule
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.FaceInfo
-- AssemblyName: UnityEngine.TextCoreModule
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.Glyph
-- AssemblyName: UnityEngine.TextCoreModule
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.GlyphMetrics
-- AssemblyName: UnityEngine.TextCoreModule
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.GlyphRect
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.AnimationTriggers

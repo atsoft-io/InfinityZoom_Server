@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 299808302
+CRC: 3511073650
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ade4f18525aceb5d119d3c9dcd55d570
+    Hash: 0636aa8c2ac923c7c8872b530344f54f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ce4ff0b41e7be395ef2e1634ab96daf7
+    Hash: 08d0061f5dafa30c46fcc015cf3ab108
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -22,15 +22,19 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd65ce587bb10ee488dbbbc15fa51320, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afe30c97810141f4a94d475c4777a804, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9e5aff8c02dc07544a98ecd83c0efce2, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
@@ -43,10 +47,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6622c7a64ebb81143ace81313f4f081b, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: afe30c97810141f4a94d475c4777a804, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: dd65ce587bb10ee488dbbbc15fa51320, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -86,13 +86,13 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.Events.UnityEvent
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.RectOffset
-- AssemblyName: UnityEngine.TextCoreModule
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.FaceInfo
-- AssemblyName: UnityEngine.TextCoreModule
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.Glyph
-- AssemblyName: UnityEngine.TextCoreModule
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.GlyphMetrics
-- AssemblyName: UnityEngine.TextCoreModule
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.GlyphRect
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.AnimationTriggers
